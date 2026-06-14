@@ -1,1 +1,0 @@
-const regex = /^[^Aa]{6,}$/;
